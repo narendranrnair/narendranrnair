@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @narendranrnair
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning P5.JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me IG@ narendranrnair
+- 👀 I’m interested in Design, loves to draw and read poetry
+- 🌱 I’m currently learning P5.JS and Python
+- 📫 How to reach me: rnair.narendran@gmail.com
 
-<!---
-narendranrnair/narendranrnair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
